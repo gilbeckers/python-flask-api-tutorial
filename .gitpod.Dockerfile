@@ -1,4 +1,5 @@
-FROM node:alpine #gitpod/workspace-full:latest
+#FROM node: gitpod/workspace-full:latest
+FROM node:alpine 
 
 USER gitpod
 
